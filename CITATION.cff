@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or build upon this repository, cite this repository metadata."
+type: software
+title: "Real Time Speech Captioning"
+abstract: "Planned research and engineering repository; no completed implementation or research results are claimed."
+authors:
+  - given-names: "Mohd Rizam"
+    family-names: "Bakar"
+repository-code: "https://github.com/MarkRizam/real-time-speech-captioning"
+url: "https://github.com/MarkRizam/real-time-speech-captioning"
+license: MIT
+keywords:
+  - "speech-recognition"
+  - "planned"

@@ -1,0 +1,15 @@
+# Contributing to Real Time Speech Captioning
+
+Status: **Planned**. Start with an issue discussing a focused question or documentation improvement relevant to prototype streaming transcription with authorised or synthetic recordings.
+
+For a proposed implementation, explain the expected behaviour, assumptions, test method and dependency licences. For an experiment, provide a baseline, reproducible configuration and data-provenance plan. Do not describe a planned feature as completed. No automatic acceptance of features, benchmarks or scientific claims is implied.
+
+Do not upload credentials, private records, identifiable participant data, unlicensed datasets or copyrighted textbooks. Cite sources and identify original versus third-party material. Keep generated model/data artefacts out of Git unless their rights and suitability have been reviewed.
+
+This project is exploratory research and is not a clinically validated medical device.
+No identifiable participant data will be published. Human-participant experiments
+require appropriate research ethics approval before recruitment or data collection.
+Datasets and trained models may have licensing requirements separate from the MIT
+software license. Computational results must not be presented as demonstrated
+benefit to hearing-assistance users without appropriate evidence.
+
